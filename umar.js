@@ -19,7 +19,7 @@
         "HEROKU_API_KEY": {
             "description": "Enter your heroku account api key",
             "required": true,
-            "value": ""
+            "value": "7a060a36-6a0c-4b74-950e-e13f0f8d440d"
         },
         "HEROKU_APP_NAME": {
             "description": "Enter you pushed app Name",
@@ -29,7 +29,7 @@
         "WORK_TYPE": {
             "description": "Add the worktype of the Bot ( private , public , only_group )",
             "required": true,
-            "value": "private"
+            "value": "public"
         }
     },
     "buildpacks": [
